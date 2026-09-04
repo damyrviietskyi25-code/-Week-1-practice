@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+stat163_2026t1_week1_practice.egg-info/PKG-INFO
+stat163_2026t1_week1_practice.egg-info/SOURCES.txt
+stat163_2026t1_week1_practice.egg-info/dependency_links.txt
+stat163_2026t1_week1_practice.egg-info/requires.txt
+stat163_2026t1_week1_practice.egg-info/top_level.txt

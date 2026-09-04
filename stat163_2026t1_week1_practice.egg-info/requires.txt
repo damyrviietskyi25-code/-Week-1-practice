@@ -1,0 +1,3 @@
+pandas>=2.0
+numpy
+jupyterlab>=4.0

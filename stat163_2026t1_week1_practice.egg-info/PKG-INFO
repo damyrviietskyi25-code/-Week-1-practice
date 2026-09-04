@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: stat163-2026t1-week1-practice
+Version: 0.1.0
+Summary: STAT163 Week 1 practice — kinds of values and grain
+Requires-Python: >=3.10
+Requires-Dist: pandas>=2.0
+Requires-Dist: numpy
+Requires-Dist: jupyterlab>=4.0
